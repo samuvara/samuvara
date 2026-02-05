@@ -1,9 +1,13 @@
 # 👋 Ciao, sono Samuel Varano
 
+<div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-samuvara.github.io-purple?style=flat-square)](https://samuvara.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Varano-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-varano01/)
 [![Email](https://img.shields.io/badge/Email-samuel.varano01%40gmail.com-red?style=flat-square)](mailto:samuel.varano01@gmail.com)
-[![Varano Brand](https://img.shields.io/badge/Shop-Varano%20Brand-green?style=flat-square)](https://varano.tpopsite.com/)
+[![Varano Brand](https://img.shields.io/badge/Shop-Varano%20Brand-lightgreen?style=flat-square)](https://varano.tpopsite.com/)
+
+</div>
 
 ## 🚀 Chi sono
 
@@ -98,7 +102,7 @@ Progetto web che presenta il mio CV come un sito interattivo.
 
 ### 🐾 Pet Sitting Website
 Sito web per l'attività di pet sitting di Letizia & Samuel con sistema di prenotazione integrato e calendario disponibilità.
-- Work in progress
+- [Visita il sito](https://samuvara.github.io/PetSitting.samuvara.github.io/index.html)
 
 ### 🎨 Varano Brand
 Marchio personale dove esprimo la mia creatività. Varano Brand è più di un marchio: è un'identità visiva che unisce stile, ricerca e carattere. Specializzati nella creazione di capi e prodotti che raccontano il Varano, puntiamo su qualità, autenticità e design sostenibile.
