@@ -100,9 +100,9 @@ Studio di linguaggi di programmazione: HTML, CSS, C++, C, Java, PHP, Query, MySQ
 Progetto web che presenta il mio CV come un sito interattivo.
 - [Visita il sito](https://samuvara.github.io)
 
-### 🐾 Pet Sitting Website
+### 🐾 Zampe In Famiglia
 Sito web per l'attività di pet sitting di Letizia & Samuel con sistema di prenotazione integrato e calendario disponibilità.
-- [Visita il sito](https://samuvara.github.io/PetSitting.samuvara.github.io/index.html)
+- [Visita il sito](https://samuvara.github.io/ZampeInFamiglia/)
 
 ### 🎨 Varano Brand
 Marchio personale dove esprimo la mia creatività. Varano Brand è più di un marchio: è un'identità visiva che unisce stile, ricerca e carattere. Specializzati nella creazione di capi e prodotti che raccontano il Varano, puntiamo su qualità, autenticità e design sostenibile.
